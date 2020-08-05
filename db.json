@@ -1,0 +1,105 @@
+{
+  "buddyList": [
+    ["Karsten", "Nina"],
+    ["Caro", "Anna"],
+    ["Anni", "Constantin"],
+    ["Deniz", "Dennis J."],
+    ["Dennis W.", "Iver"],
+    ["Jan Henrik", "Jenny"],
+    ["Martin", "Max"],
+    ["Maxi", "Sören"]
+  ],
+  "teams": [
+    {
+      "title": "Team 1",
+      "names": ["Karsten", "Nina", "Caro", "Anna"]
+    },
+    {
+      "title": "Team 2",
+      "names": ["Anni", "Constantin", "Deniz", "Dennis J."]
+    },
+    {
+      "title": "Team 3",
+      "names": ["Dennis W.", "Iver", "Jan Henrik", "Jenny"]
+    },
+    {
+      "title": "Team 4",
+      "names": ["Martin", "Max", "Maxi", "Sören"]
+    }
+  ],
+  "journals": [
+    {
+      "date": "Yesterday",
+      "rating": 3,
+      "comprehension": 9,
+      "motto": "coding is great",
+      "notes": "Beispieltext hier einfügen",
+      "id": 1
+    },
+    {
+      "date": "31.07.2020",
+      "rating": 1,
+      "comprehension": 1,
+      "motto": "coding sucks",
+      "notes": "anderer Beispieltext",
+      "id": 2
+    },
+    {
+      "date": "12.07.2020",
+      "rating": 4,
+      "comprehension": 6,
+      "motto": "learned a lot",
+      "notes": "noch ein Beispieltext",
+      "id": 3
+    },
+    {
+      "date": "30.07.2020",
+      "rating": 5,
+      "comprehension": 10,
+      "motto": "coding is amazing",
+      "notes": "ein ganz anderer Beispieltext",
+      "id": 4
+    },
+
+    {
+      "date": "03.08.2020",
+      "rating": 3,
+      "comprehension": 9,
+      "motto": "hallo",
+      "notes": "wir sind cool",
+      "id": 5
+    }
+  ],
+  "energyData": [
+    {
+      "students": 75,
+      "you": 50,
+      "timestamp": "20200729:0705"
+    },
+    {
+      "students": 25,
+      "you": 25,
+      "timestamp": "20200712:0910"
+    },
+    {
+      "students": 100,
+      "you": 75,
+      "timestamp": "20200718:1307"
+    },
+    {
+      "students": 50,
+      "you": 75,
+      "timestamp": "20200715:2110"
+    },
+    {
+      "students": 25,
+      "you": 50,
+      "timestamp": "20200701:1130"
+    },
+    {
+      "students": 100,
+      "you": 25,
+      "timestamp": "20200706:1933"
+    }
+  ]
+}
