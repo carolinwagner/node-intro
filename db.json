@@ -1,30 +1,74 @@
 {
   "buddyList": [
-    ["Karsten", "Nina"],
-    ["Caro", "Anna"],
-    ["Anni", "Constantin"],
-    ["Deniz", "Dennis J."],
-    ["Dennis W.", "Iver"],
-    ["Jan Henrik", "Jenny"],
-    ["Martin", "Max"],
-    ["Maxi", "Sören"]
+    [
+      "Karsten",
+      "Nina"
+    ],
+    [
+      "Caro",
+      "Anna"
+    ],
+    [
+      "Anni",
+      "Constantin"
+    ],
+    [
+      "Deniz",
+      "Dennis J."
+    ],
+    [
+      "Dennis W.",
+      "Iver"
+    ],
+    [
+      "Jan Henrik",
+      "Jenny"
+    ],
+    [
+      "Martin",
+      "Max"
+    ],
+    [
+      "Maxi",
+      "Sören"
+    ]
   ],
   "teams": [
     {
       "title": "Team 1",
-      "names": ["Karsten", "Nina", "Caro", "Anna"]
+      "names": [
+        "Karsten",
+        "Nina",
+        "Caro",
+        "Anna"
+      ]
     },
     {
       "title": "Team 2",
-      "names": ["Anni", "Constantin", "Deniz", "Dennis J."]
+      "names": [
+        "Anni",
+        "Constantin",
+        "Deniz",
+        "Dennis J."
+      ]
     },
     {
       "title": "Team 3",
-      "names": ["Dennis W.", "Iver", "Jan Henrik", "Jenny"]
+      "names": [
+        "Dennis W.",
+        "Iver",
+        "Jan Henrik",
+        "Jenny"
+      ]
     },
     {
       "title": "Team 4",
-      "names": ["Martin", "Max", "Maxi", "Sören"]
+      "names": [
+        "Martin",
+        "Max",
+        "Maxi",
+        "Sören"
+      ]
     }
   ],
   "journals": [
@@ -60,7 +104,6 @@
       "notes": "ein ganz anderer Beispieltext",
       "id": 4
     },
-
     {
       "date": "03.08.2020",
       "rating": 3,
@@ -100,6 +143,34 @@
       "students": 100,
       "you": 25,
       "timestamp": "20200706:1933"
+    },
+    {
+      "students": 1000,
+      "you": 50,
+      "timestamp": "20200729:0705",
+      "id": 100
+    },
+    {
+      "students": 1000,
+      "you": 50,
+      "timestamp": "20200729:0705",
+      "id": 100
+    },
+    {
+      "students": 1000,
+      "you": 50,
+      "timestamp": "20200729:0705"
+    },
+    {
+      "students": 1000,
+      "you": 50,
+      "timestamp": "20200729:0705"
+    },
+    {
+      "students": 1000,
+      "you": 50,
+      "timestamp": "20200729:0705",
+      "id": "22cde961-aea0-44f2-bfd0-f42a2a82bd67"
     }
   ]
 }
